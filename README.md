@@ -1,1 +1,1 @@
-# tecnicas_programacao_2023_1
+# Repositório com os códigos de exemplo das aulas
